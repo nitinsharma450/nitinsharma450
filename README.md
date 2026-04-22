@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">Full Stack Developer | React • Spring Boot • MongoDB</h3>
 
-- 🔭 I’m currently working on [Secure E-Commerce Ecosystem.](https://github.com/nitinsharma450/ShopCraftEcommerce.git)
+- 🔭 I’m currently working on [BlindTalk.](https://github.com/nitinsharma450/BlinkTalk.git)
 
-- 🌱 I’m currently learning **Dart,Flutter**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **nitinsharma1059@gmail.com**
 
