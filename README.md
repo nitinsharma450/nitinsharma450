@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
+[<h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">🚀 Full Stack Developer | React • Spring Boot • MongoDB</h3>
 
 <p align="center">
@@ -24,12 +24,8 @@
   <a href="https://www.linkedin.com/in/nitin-sharma-171755290/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/23csu224" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/dkgoqwnqr1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
-  </a>
+ <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/23csu224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/23csu224" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/https://leetcode.com/u/dkgoqwnqr1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dkgoqwnqr1/" height="30" width="40" /></a>
 </p>
 
 ---
@@ -79,3 +75,4 @@
 
 ### ⚡ Fun Fact
 - I love building **real-world scalable systems** & exploring **AI + DevOps integration**
+](url)
