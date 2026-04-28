@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://www.hackerrank.com/profile/23csu224" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40"/>
   </a>
   <a href="https://leetcode.com/u/dkgoqwnqr1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
