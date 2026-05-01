@@ -10,7 +10,7 @@
 ### 🚀 Featured Projects
 
 #### 🛒 ShopCraft – Secure E-Commerce Platform
-👉 <a href="https://github.com/nitinsharma450">View Project</a>  
+👉 <a href="https://github.com/nitinsharma450/ShopCraftEcommerce.git">View Project</a>  
 - 🔐 Implemented **JWT Authentication & Role-Based Access Control (RBAC)**
 - ⚡ Built scalable **REST APIs using Spring Boot & Node.js**
 - 🛍️ Features: Product filtering, cart management, order system  
@@ -19,19 +19,12 @@
 ---
 
 #### 🎓 OpenLearn – AI-Powered E-Learning Platform
-👉 <a href="https://github.com/nitinsharma450">View Project</a>  
+👉 <a href="https://github.com/nitinsharma450/E-learningPlatform.git">View Project</a>  
 - 🤖 Integrated **RAG-based AI doubt solver**
 - ⚡ Real-time tracking using **WebSockets**
-- 👨‍🏫 Multi-role dashboards (**Admin / Teacher / Student**)  
-- 📊 Automated quiz evaluation & content delivery system  
-
----
-
-#### 🔥 AI Fire Safety Monitoring System
-👉 <a href="https://github.com/nitinsharma450">View Project</a>  
-- 📡 Real-time monitoring using **IoT sensor data**
-- 🚨 Built **anomaly detection pipeline** for early hazard alerts  
-- 📊 Interactive **3D visualization dashboard (Streamlit)**  
+- 👨‍🏫 Multi-role dashboards (**Admin / Teacher / Student**)
+- 🐳 Containerized using **Docker** + CI/CD with **Jenkins**
+    
 
 ---
 
