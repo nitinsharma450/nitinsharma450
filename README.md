@@ -1,18 +1,58 @@
-[<h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
+<h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 <h3 align="center">🚀 Full Stack Developer | React • Spring Boot • MongoDB</h3>
 
 <p align="center">
-  💡 Passionate about building scalable web apps & integrating AI-driven solutions
+  💡 Building scalable systems with AI + DevOps integration
 </p>
 
 ---
 
-### 🔭 Current Work
-- 🚀 Working on **BlindTalk**  
-  👉 <a href="https://github.com/nitinsharma450/BlinkTalk.git">View Project</a>
+### 🚀 Featured Projects
 
-### 🌱 Learning
+#### 🛒 ShopCraft – Secure E-Commerce Platform
+👉 <a href="https://github.com/nitinsharma450">View Project</a>  
+- 🔐 Implemented **JWT Authentication & Role-Based Access Control (RBAC)**
+- ⚡ Built scalable **REST APIs using Spring Boot & Node.js**
+- 🛍️ Features: Product filtering, cart management, order system  
+- 🐳 Containerized using **Docker** + CI/CD with **Jenkins**
+
+---
+
+#### 🎓 OpenLearn – AI-Powered E-Learning Platform
+👉 <a href="https://github.com/nitinsharma450">View Project</a>  
+- 🤖 Integrated **RAG-based AI doubt solver**
+- ⚡ Real-time tracking using **WebSockets**
+- 👨‍🏫 Multi-role dashboards (**Admin / Teacher / Student**)  
+- 📊 Automated quiz evaluation & content delivery system  
+
+---
+
+#### 🔥 AI Fire Safety Monitoring System
+👉 <a href="https://github.com/nitinsharma450">View Project</a>  
+- 📡 Real-time monitoring using **IoT sensor data**
+- 🚨 Built **anomaly detection pipeline** for early hazard alerts  
+- 📊 Interactive **3D visualization dashboard (Streamlit)**  
+
+---
+
+#### 💬 BlindTalk (Ongoing)
+👉 <a href="https://github.com/nitinsharma450/BlinkTalk.git">View Project</a>  
+- 💡 Communication platform focused on accessibility  
+- ⚡ Real-time interaction features (in progress)
+
+---
+
+### 🌱 Currently Learning
 - ☸️ Kubernetes (Container Orchestration & DevOps)
+
+---
+
+### 🏆 Achievements
+- 🥉 Top 3 – National Level Hackathon (Pradarshan 5.0)  
+- ☁️ AWS Certified Cloud Practitioner  
+- 🤖 AWS GenAI Foundation Certified  
+
+---
 
 ### 📫 Contact Me
 - 📧 **nitinsharma1059@gmail.com**
@@ -25,11 +65,11 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/23csu224" target="blank">
+  <a href="https://www.hackerrank.com/profile/23csu224" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/https://leetcode.com/u/dkgoqwnqr1/" target="blank">
+  <a href="https://leetcode.com/u/dkgoqwnqr1/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" />
   </a>
 </p>
@@ -63,12 +103,6 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,postman" />
 </p>
 
-#### 📊 Data & ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-</p>
-
 ---
 
 ### 📈 GitHub Stats
@@ -80,5 +114,4 @@
 ---
 
 ### ⚡ Fun Fact
-- I love building **real-world scalable systems** & exploring **AI + DevOps integration**
-](url)
+- I enjoy building **real-world systems that solve actual problems** 🚀
